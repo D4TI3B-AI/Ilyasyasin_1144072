@@ -1,6 +1,6 @@
 import time
 start_time = time.time()
-print('menghitung nilai ( angka1 - angka2 ) - ( angka3 * angka4')
+print('menghitung nilai ( angka1 - angka2 ) / ( angka3 * angka4')
 a = raw_input('masukan angka A : ')
 b = raw_input('masukan angka B : ')
 c = raw_input('masukan angka C : ')
